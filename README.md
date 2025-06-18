@@ -17,7 +17,7 @@ setTimeout(() => console.log('setTimeout'), 0);
 Promise.resolve().then(() => console.log('Promise'));
 console.log('End');
 
-Output of below above code : Start
+Output of below code : Start
                              End
                              Promise
                              setTimeout
