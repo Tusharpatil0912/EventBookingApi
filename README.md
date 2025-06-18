@@ -6,5 +6,5 @@
 
 
 ## Postman Collection
-Import this file into Postman: `event-booking.postman_collection.json`
+Import this file into Postman: `Event Booking API.postman_collection.json`
 
