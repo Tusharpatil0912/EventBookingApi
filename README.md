@@ -184,7 +184,7 @@ Implemented using Promise.all()
 Function: sendConfirmationEmail(userId) inside utils/emailUtil.js
 
 🧪 Postman Collection
-Download: 📩 Event Booking Postman Collection
+
 
 Tokens to Use:
 Admin Login: admin / admin123
