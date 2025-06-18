@@ -1,7 +1,6 @@
 ## Setup Instructions
 
-1. Clone the repo:  https://github.com/your-username/event-booking.git
-  
+1. Clone the repo:  https://github.com/Tusharpatil0912/EventBookingApi.git
 2. Install dependencies:  npm install
 3. Run the server:
 
